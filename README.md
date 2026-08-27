@@ -1,15 +1,13 @@
-# 抖音影院 · Kodi 账号插件 v2
+# 抖音影院 plugin.video.douyintv v2.0.0
 
-对标 B 站插件：登录入口、作品 / 喜欢 / 收藏 / 关注。
+账号版，覆盖旧的演示片库版。插件 ID 不变：`plugin.video.douyintv`。Kodi 里再装一次 ZIP 会直接覆盖 1.0。
 
-## 下载 ZIP
+## 下载
 
-https://gofile.io/d/zZqVFR0E
+https://gofile.io/d/wvATaxE2
+
+文件名 `plugin.video.douyintv.zip`
 
 ## 登录
 
-1. 浏览器打开 douyin.com 并登录
-2. F12 → Application → Cookies → 复制 sessionid
-3. Kodi 插件首页 → 登录抖音账号 → 粘贴 Cookie
-
-也可扫码。盒子网络必须能打开 douyin.com。
+首页 → 登录抖音账号 → 粘贴 sessionid / Cookie，或扫码。
